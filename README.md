@@ -1,6 +1,12 @@
 # FINDING ANIMALS<!--# sirve para colocar un titulo-->
 El objetivo central de la página es desarrollar un prototipo para evaluar la efectividad del uso de un aplicativo como solución a la problemática de mascotas perdidas. <!--Descripcion corta del repositorio-->
 
+## Autor
+<!--Autores del proyecto-->
+    - José Manuel Acuña Carmona
+        +57 3209141526
+        josemanuelacuna06@gmail.com
+
 ## Contenido del repositorio <!--Subtitulo del README-->
 - index.html
 - style.css
